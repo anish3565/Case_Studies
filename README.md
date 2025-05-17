@@ -35,8 +35,8 @@ NLP/
 +--------------------------------------------------------+--------------------+--------------------------+
 | Notebook                                               | Task Type          | Final Accuracy / Metric  |
 +--------------------------------------------------------+-------------------=+--------------------------+
-| AdClickClassification.ipynb                            | Classification     | Accuracy ≈ 94%           |
-| LoanApprovalData.ipynb                                 | Classification     | Accuracy ≈ 78%           |
+| AdClickClassification.ipynb                            | Classification     | Accuracy = 94%           |
+| LoanApprovalData.ipynb                                 | Classification     | Accuracy = 78%           |
 | ZomatoRestaurantRating.ipynb                           | Regression         | Accuracy = 92%           |
 | BikeRentalDemandPrediction.ipynb                       | Regression         | Accuracy = 90%           |
 | SuperStores_Sales_Analysis.ipynb                       | Time Series        | Accuracy = 80%           |
@@ -46,7 +46,7 @@ NLP/
 | CNN_face_recognition.ipynb                             | DL Regression      | Accuracy = 80%           |
 | SupportTicketClassification_TF-IDF.ipynb               | NLP Classification | Accuracy ≈ 69%           |
 | Classify_Text_Word2Vec.ipynb                           | NLP Classification | --                       |
-| Indigo_Tweets_Sentiment.ipynb                          | NLP Sentiment      | F1 Score ≈ 99%           |
+| Indigo_Tweets_Sentiment.ipynb                          | NLP Sentiment      | F1 Score = 99%           |
 +--------------------------------------------------------+--------------------+--------------------------+
 ```
 
